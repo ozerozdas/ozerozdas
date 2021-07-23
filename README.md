@@ -24,13 +24,16 @@
 
 <br />
 <hr />
-<br />
 
 <details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ozerozdas&theme=radical" >
 </details>
 
+<details>
+<summary>:bulb: Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozerozdas&theme=radical" >
+</details>
 
 
 [instagram]: https://www.instagram.com/ozerozdas/
