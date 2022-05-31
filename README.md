@@ -26,6 +26,7 @@
 - [React Calculator](https://github.com/ozerozdas/react-calculator)
 - [Play Drum](https://github.com/ozerozdas/play-drum)
 - [Go Lang Learning Examples](https://github.com/ozerozdas/golang-learning)
+- [Tailwind Base](https://github.com/ozerozdas/tailwind-base)
 
 <hr />
 
