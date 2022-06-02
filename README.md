@@ -27,7 +27,7 @@
 - [Play Drum](https://github.com/ozerozdas/play-drum)
 - [Go Lang Learning Examples](https://github.com/ozerozdas/golang-learning)
 - [Tailwind Base](https://github.com/ozerozdas/tailwind-base)
-- [Trendyol Clone + Tailwind CSS](https://github.com/ozerozdas/tailwind-base](https://github.com/ozerozdas/trendyol-clone-with-tailwindcss)
+- [Trendyol Clone + Tailwind CSS](https://github.com/ozerozdas/trendyol-clone-with-tailwindcss)
 
 <hr />
 
