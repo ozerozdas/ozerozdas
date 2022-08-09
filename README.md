@@ -28,6 +28,8 @@
 - [Go Lang Learning Examples](https://github.com/ozerozdas/golang-learning)
 - [Tailwind Base](https://github.com/ozerozdas/tailwind-base)
 - [Trendyol Clone + Tailwind CSS](https://github.com/ozerozdas/trendyol-clone-with-tailwindcss)
+- [Micro Frontend with SolidJS](https://github.com/ozerozdas/micro-frontend-solidjs)
+- [E-Commerce API Demo](https://github.com/ozerozdas/ecommerce-api-demo)
 
 <hr />
 
