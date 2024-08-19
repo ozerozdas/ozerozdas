@@ -52,7 +52,9 @@
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />][twitter]
 
 ## ⚡ List of some repositories
+- [PHP Fundamentals](https://github.com/ozerozdas/php-fundamentals)
 - [CMS Demo with Node API Server](https://github.com/ozerozdas/cms-demo-with-node-server)
+- [E-Commerce API Demo](https://github.com/ozerozdas/ecommerce-api-demo)
 - [React Clock](https://github.com/ozerozdas/react-clock)
 - [React Calculator](https://github.com/ozerozdas/react-calculator)
 - [Play Drum](https://github.com/ozerozdas/play-drum)
@@ -60,7 +62,6 @@
 - [Tailwind Base](https://github.com/ozerozdas/tailwind-base)
 - [Trendyol Clone + Tailwind CSS](https://github.com/ozerozdas/trendyol-clone-with-tailwindcss)
 - [Micro Frontend with SolidJS](https://github.com/ozerozdas/micro-frontend-solidjs)
-- [E-Commerce API Demo](https://github.com/ozerozdas/ecommerce-api-demo)
 
 <hr />
 
