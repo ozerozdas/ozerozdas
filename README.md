@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/ozerozdas"><img src="./devcard.png" width="652" alt="Mehmet Özer Özdaş's Dev Card"/></a>
+<a href="https://app.daily.dev/ozerozdas"><img src="./devcard.png" width="356" alt="Mehmet Özer Özdaş's Dev Card"/></a>
 
 ## :book: About Me
 - Backend software developer
