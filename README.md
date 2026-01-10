@@ -1,4 +1,4 @@
-# Özer Özdaş
+# Mehmet Özer Özdaş
 
 Senior Software Engineer | SaaS & AI Product Builder  
 10+ years of experience in scalable web, mobile, and cloud-native software systems.
