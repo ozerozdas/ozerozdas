@@ -1,40 +1,44 @@
 # Mehmet Özer Özdaş
 
-Senior Backend Engineer building scalable SaaS systems, APIs, and cloud infrastructure used in production environments.\
-📍 Based in Turkey - open to relocation within Europe
+**Senior Backend & Systems Engineer - Distributed Systems & AI Platforms**
 
-## Featured Projects
+I build backend systems that hold up under load - 2M+ daily transactions, 2,500–3,000 concurrent users in real-time streaming - and AI-powered SaaS products under my own brand, [Nuvo Code](https://nuvocode.com).
 
-### Watch Play (Mobile App)
-- Reached **500+ active users**
-- Built real-time APIs and backend services
-- Implemented real-time APIs and user tracking features improving engagement
+📍 Türkiye · Open to relocation and remote roles across Europe
 
-### Sarı Kırmızım (Social Platform)
-- Implemented CI/CD pipelines and Docker infrastructure
-- Built scalable backend with Laravel and Vue.js
+---
 
-## Core Stack
+## Now Building
 
-**Backend:** Laravel, Node.js, REST APIs  
-**Databases:** PostgreSQL, Redis  
-**Infrastructure:** Docker, AWS, CI/CD
+### [Nuvo Consent](https://consent.nuvocode.com) - Consent & AI Compliance Platform
+B2B consent management platform (CMP) covering **GDPR** and **EU AI Act Article 50** transparency requirements.
+Laravel backend · automated tracker-scanning engine · embeddable JS SDK · Google Consent Mode v2.
 
-## Impact
+### [Watch Play](https://play.google.com/store/apps/details?id=com.nuvocode.watch_play) - Mobile App
+Content tracking app with **1,000+ active users**. Real-time APIs, personalized activity tracking, scalable backend.
 
-- Led team of **8–12 engineers**
-- Reduced deployment time by **~40%**
-- Built and shipped multiple production systems
-- Designed backend architectures for scalable systems
+---
 
-## Focus
+## What I Do
 
-- Backend architecture & system design  
-- Scalable SaaS systems  
-- API and microservices development  
-- Performance and reliability
+- **High-load backend architecture** - streaming platforms, event-driven systems, performance engineering
+- **AI systems in production** - RAG pipelines, embeddings (pgvector, Qdrant), multi-agent orchestration, n8n automation
+- **Infrastructure & DevOps** - Docker-based CI/CD (~40% faster deployments), AWS, Cloudflare, cost-efficient architecture
+- **Engineering leadership** - led teams of 8–12 engineers, defined architecture standards and hiring processes
 
-## Engineering Approach
+## Stack
 
-Product-focused engineering.  
-Simple systems, measurable impact, scalable foundations.
+**Backend:** Laravel · Node.js · REST APIs · Microservices · WebSockets
+**Data:** PostgreSQL · MySQL · Redis · Supabase · pgvector · Qdrant
+**Infra:** Docker · GitHub Actions · AWS (EC2, S3) · Cloudflare (CDN, Workers) · NGINX
+**AI:** RAG · Embeddings · Multi-agent systems · LLM integration
+**Frontend & Mobile:** React · Next.js · Vue.js · Flutter
+
+## Approach
+
+Product-focused engineering. Simple systems, measurable impact, scalable foundations.
+I ship, measure, and make honest calls - including sunsetting products that don't find their market.
+
+---
+
+📫 [mehmetozer.dev](https://mehmetozer.dev) · [LinkedIn](https://linkedin.com/in/ozerozdas) · ozer@ozdas.org
