@@ -4,7 +4,7 @@
 
 I build backend systems that hold up under load - 2M+ daily transactions, 2,500–3,000 concurrent users in real-time streaming - and AI-powered SaaS products under my own brand, [Nuvo Code](https://nuvocode.com).
 
-📍 Türkiye · Open to relocation and remote roles across Europe
+📍 Türkiye · Open to relocation and remote roles
 
 ---
 
@@ -28,11 +28,11 @@ Content tracking app with **1,000+ active users**. Real-time APIs, personalized 
 
 ## Stack
 
-**Backend:** Laravel · Node.js · REST APIs · Microservices · WebSockets
-**Data:** PostgreSQL · MySQL · Redis · Supabase · pgvector · Qdrant
-**Infra:** Docker · GitHub Actions · AWS (EC2, S3) · Cloudflare (CDN, Workers) · NGINX
-**AI:** RAG · Embeddings · Multi-agent systems · LLM integration
-**Frontend & Mobile:** React · Next.js · Vue.js · Flutter
+- **Backend:** Laravel · Node.js · REST APIs · Microservices · WebSockets
+- **Data:** PostgreSQL · MySQL · Redis · Supabase · pgvector · Qdrant
+- **Infra:** Docker · GitHub Actions · AWS (EC2, S3) · Cloudflare (CDN, Workers) · NGINX
+- **AI:** RAG · Embeddings · Multi-agent systems · LLM integration
+- **Frontend & Mobile:** React · Next.js · Vue.js · Flutter
 
 ## Approach
 
