@@ -1,44 +1,48 @@
-# Mehmet Özer Özdaş
+# Hi, I'm Özer 👋
 
-**Senior Backend & Systems Engineer - Distributed Systems & AI Platforms**
+**Senior Backend & Systems Engineer.** I build backends that hold up under load, and I ship my own AI products on the side.
 
-I build backend systems that hold up under load - 2M+ daily transactions, 2,500–3,000 concurrent users in real-time streaming - and AI-powered SaaS products under my own brand, [Nuvo Code](https://nuvocode.com).
+- ⚡ **2M+ daily transactions** and **2,500–3,000 concurrent viewers** on real-time streaming platforms I built and run
+- 👥 Led teams of **8–12 engineers**; set architecture standards and hiring processes
+- 🧠 Ship AI to production: RAG, embeddings, multi-agent systems, and fully **local LLMs**
+- 📍 Türkiye · open to remote and relocation
 
-📍 Türkiye · Open to relocation and remote roles
+## 🌱 Sprigo, my current project
 
----
+**A free, open-source Duolingo alternative that runs entirely on your computer.**
+AI-generated lessons, a live video-call tutor you can interrupt mid-sentence, roleplay and a speaking coach. All of it runs on a local model (Ollama / LM Studio): no account, no cloud, no subscription.
 
-## Now Building
+[![Sprigo](https://raw.githubusercontent.com/ozerozdas/sprigo/master/docs/screenshots/practice.jpg)](https://github.com/ozerozdas/sprigo)
 
-### [Nuvo Consent](https://consent.nuvocode.com) - Consent & AI Compliance Platform
-B2B consent management platform (CMP) covering **GDPR** and **EU AI Act Article 50** transparency requirements.
-Laravel backend · automated tracker-scanning engine · embeddable JS SDK · Google Consent Mode v2.
+`Tauri 2` `Rust` `React` `TypeScript` `whisper.cpp` `Piper / Kokoro TTS` `SQLite`
 
-### [Watch Play](https://play.google.com/store/apps/details?id=com.nuvocode.watch_play) - Mobile App
-Content tracking app with **1,000+ active users**. Real-time APIs, personalized activity tracking, scalable backend.
+```bash
+brew install --cask ozerozdas/tap/sprigo
+```
 
----
-
-## What I Do
-
-- **High-load backend architecture** - streaming platforms, event-driven systems, performance engineering
-- **AI systems in production** - RAG pipelines, embeddings (pgvector, Qdrant), multi-agent orchestration, n8n automation
-- **Infrastructure & DevOps** - Docker-based CI/CD (~40% faster deployments), AWS, Cloudflare, cost-efficient architecture
-- **Engineering leadership** - led teams of 8–12 engineers, defined architecture standards and hiring processes
-
-## Stack
-
-- **Backend:** Laravel · Node.js · REST APIs · Microservices · WebSockets
-- **Data:** PostgreSQL · MySQL · Redis · Supabase · pgvector · Qdrant
-- **Infra:** Docker · GitHub Actions · AWS (EC2, S3) · Cloudflare (CDN, Workers) · NGINX
-- **AI:** RAG · Embeddings · Multi-agent systems · LLM integration
-- **Frontend & Mobile:** React · Next.js · Vue.js · Flutter
-
-## Approach
-
-Product-focused engineering. Simple systems, measurable impact, scalable foundations.
-I ship, measure, and make honest calls - including sunsetting products that don't find their market.
+[**Repo**](https://github.com/ozerozdas/sprigo) · [**Download**](https://github.com/ozerozdas/sprigo/releases/latest) · [**Website**](https://mehmetozer.dev/sprigo)
 
 ---
 
-📫 [mehmetozer.dev](https://mehmetozer.dev) · [LinkedIn](https://linkedin.com/in/ozerozdas) · ozer@ozdas.org
+## 🛠 Other things I've built
+
+| Project | What it is |
+| --- | --- |
+| [**Watch Play**](https://play.google.com/store/apps/details?id=com.nuvocode.watch_play) | Content-tracking mobile app, **1,000+ active users**. Flutter + real-time backend. |
+| [**job-pipeline**](https://github.com/ozerozdas/job-pipeline) | Daily job scraper that scores each listing against your résumé with Claude / GPT. |
+| [**i18n-translator**](https://github.com/ozerozdas/i18n-translator) | Browser-only i18n JSON translator. Nothing to install. |
+| **Nuvo Consent** *(sunset)* | GDPR + EU AI Act consent platform. Launched, didn't find its market, shut down. Sunsetting is part of the job. |
+
+---
+
+## 🧰 Stack
+
+**Backend** Laravel · Node.js · WebSockets · Microservices
+**Data** PostgreSQL · MySQL · Redis · Supabase · pgvector · Qdrant
+**Infra** Docker · GitHub Actions · AWS · Cloudflare (Workers, CDN) · NGINX
+**AI** RAG · Embeddings · Multi-agent · Ollama · whisper.cpp
+**Client** React · Next.js · Vue · Flutter · Tauri
+
+---
+
+[mehmetozer.dev](https://mehmetozer.dev) · [LinkedIn](https://linkedin.com/in/ozerozdas) · ozer@ozdas.org
